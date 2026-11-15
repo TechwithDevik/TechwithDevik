@@ -1,7 +1,7 @@
 # Hey Everyone 👋, I'm Devik Sharma
 
 <div align="center">
-  <img src="my-banner.png" alt="Tech with Devik Banner" width="100%" />
+  <img src="my-banner1.png" alt="Tech with Devik Banner" width="100%" />
 </div>
 
 <h3 align="center">
